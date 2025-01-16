@@ -53,4 +53,4 @@ jobs:
           app-name: 'az204-egsite-souza'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_018A8874D23443B6B15F9332296F3EAA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_18E6A47350064A1DAF6AAF2D32F44ADD }}
